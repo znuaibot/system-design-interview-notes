@@ -3,7 +3,7 @@ name: system-design-interview-notes
 description: "Use when designing scalable systems, preparing for system-design interviews, estimating capacity, or looking up architecture patterns. A practical knowledge base synthesized from System Design Interview notes covering 28 designs."
 slug: system-design-interview-notes-nuaib
 displayName: System Design Interview Notes
-version: 3.0.1
+version: 3.0.2
 homepage: https://github.com/znuaibot/system-design-interview-notes
 summary: "从《System Design Interview》两卷笔记合成的可推理知识库，覆盖 28 个系统设计案例、21 个可复用架构模式、估算速查与 110+ 术语表。内置双重视角（从业者落地 + 面试话术），用于实际设计、面试训练与架构模式查询。"
 license: MIT
